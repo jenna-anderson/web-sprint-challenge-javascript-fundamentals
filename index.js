@@ -161,7 +161,15 @@ function greeting(first, last){
   
   
 // 🦁💪 Stretch: If you haven't already, convert your array method callbacks into arrow functions - make sure you comment out this section before you submit your work 🦁💪
- 
+
+// const add = (num1, num2) => num1 + num2;
+// console.log(consume(2, 2, add)); // 4
+
+// const multiply = (num1, num2) => num1 * num2;
+// console.log(consume(10, 16, multiply)); // 160
+
+// const greeting = (first, last) => `Hello ${first} ${last}, nice to meet you!`;
+// console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice to meet you!
 
 
 
